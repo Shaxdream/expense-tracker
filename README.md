@@ -15,10 +15,12 @@ Backend API for the Expense Tracker app using **Node.js**, **Express.js**, and *
 
 ---
 
-## Link MongoDB
-https://mongodb+srv://shaxdream:Ijt5RR50r4mrY5tw@expensetracker.pyfifhm.mongodb.net/?retryWrites=true&w=majority&appName=expenseTracker
-
 ## Link Vercel (for viewing the project online)
 https://expense-tracker-4iz9.vercel.app/
 
+---
+
+## 🧠 Notes
+
+🔒 MongoDB connection string disimpan secara aman di file `.env` dan tidak dibagikan ke publik repository.
 
