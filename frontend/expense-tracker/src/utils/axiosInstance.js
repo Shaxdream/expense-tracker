@@ -1,8 +1,7 @@
 import axios from "axios";
-import { BASE_URL } from "./baseUrl";
 
 const axiosInstance = axios.create({
-    baseURL: BASE_URL,
+    baseURL: "https://expense-tracker-production-6707.up.railway.app",
     timeout: 10000,
     headers: {
         "Content-Type": "application/json",
